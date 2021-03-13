@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Kezek</string>
+    <string name="dateForFragment_task">13.03.21</string>
+
+    <string name="balance_tab">Balance</string>
+    <string name="budget_tav">Budget</string>
 </resources>
