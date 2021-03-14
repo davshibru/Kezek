@@ -12,9 +12,9 @@ public class EmploeeData {
     }
 
     public static EmploeeData[] emploeeData = {
-            new EmploeeData(R.drawable.ic_baseline_account_box_24, "Рустам, 26 лет, опыт работы 8 лет"),
-            new EmploeeData(R.drawable.ic_baseline_account_box_24, "Евгений, 23 года, опыт работы 8 лет"),
-            new EmploeeData(R.drawable.ic_baseline_account_box_24, "Евгений, 23 года, опыт работы 8 лет")
+            new EmploeeData(R.drawable.g2, "Рустам, 26 лет, опыт работы 8 лет"),
+            new EmploeeData(R.drawable.g1, "Евгений, 23 года, опыт работы 8 лет"),
+            new EmploeeData(R.drawable.g1, "Евгений, 23 года, опыт работы 8 лет")
     };
 
     public   final  int getImageId() {

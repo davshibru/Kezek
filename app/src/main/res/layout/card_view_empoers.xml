@@ -12,6 +12,7 @@
         android:orientation="horizontal">
 
         <androidx.cardview.widget.CardView
+            android:layout_margin="10dp"
             android:padding="10dp"
             android:layout_width="50dp"
             android:layout_height="50dp"
@@ -20,6 +21,7 @@
             app:cardCornerRadius="25dp">
 
             <ImageView
+                android:scaleType="centerCrop"
                 android:id="@+id/card_view_employee_image"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"/>

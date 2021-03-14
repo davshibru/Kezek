@@ -9,9 +9,9 @@ public class ChatPlaceData {
     private int imageId;
 
     public static ChatPlaceData[] chatPlaceData = {
-            new ChatPlaceData("Black Sakal", "Спасибо вам за то, что выбираете нас", R.drawable.ic_baseline_account_box_24),
-            new ChatPlaceData("Stoma-dent", "Да встречи, берегите свои зубы", R.drawable.ic_baseline_account_box_24),
-            new ChatPlaceData("GRATA", "К 13:30 жду вас", R.drawable.ic_baseline_account_box_24)
+            new ChatPlaceData("Black Sakal", "Спасибо вам за то, что выбираете нас", R.drawable.b1),
+            new ChatPlaceData("Stoma-dent", "Да встречи, берегите свои зубы", R.drawable.b2),
+            new ChatPlaceData("GRATA", "К 13:30 жду вас", R.drawable.b3)
     };
 
     public ChatPlaceData(String title, String lastMassage, int imageId) {
